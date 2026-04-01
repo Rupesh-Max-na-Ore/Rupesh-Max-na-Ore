@@ -171,7 +171,7 @@ DSA • OS • DBMS • Networks • Game Theory • OOP • LLD • HLD(Basics)
 
 ## 🏆 Proof of Work
 
-* 650+ DSA problems solved (**Avg. Top ~3% in contests**)
+* 650+ DSA problems solved (**Avg. Top ~3% in contests**). [Leetcode](https://leetcode.com/u/Rupesh_Das/)
 * 🥉 3rd place — Lumen QUEST (5000+ participants)
 * Research exposure — IEEE GIEST, ICDCIT
 * Ongoing work in interpretable ML + metaheuristics
