@@ -136,8 +136,8 @@ DSA • OS • DBMS • Networks • Game Theory • OOP • LLD • HLD(Basics)
 ## 📊 GitHub Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupesh-Max-na-Ore&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Max-na-Ore&layout=compact" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupesh-Max-na-Ore&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rupesh-Max-na-Ore&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
